@@ -10,9 +10,9 @@ end
 
 def monopoly
 	monopoly = {
-		
+
 	}
-	
+
 
 end
 
